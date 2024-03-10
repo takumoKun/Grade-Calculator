@@ -47,7 +47,7 @@ public class GradeCalculatorRunner {
 
             // if the user does not want to run the program again, exit the program
             if (rerun != run) {
-                System.out.println("Thank you for using the Grade Calculator!");
+                System.out.println("\n\nThank you for using the Grade Calculator!\nGoodbye!\n");
                 System.exit(0);
             }
         }
