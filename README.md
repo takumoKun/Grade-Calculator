@@ -2,9 +2,9 @@
 
 A simple grade calculator written in Java which utilizes Object-Oriented Programming
 
-View [Runner Code](code/GradeCalculatorRunner.java)
+View [GradeCalculator Runner](code/GradeCalculatorRunner.java)
 
-View [Runner Code](code/GradeCalculator.java)
+View [GradeCalculator Class](code/GradeCalculator.java)
 
 # Sample Outputs
 
